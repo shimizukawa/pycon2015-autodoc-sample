@@ -1,0 +1,9 @@
+dl pre, blockquote pre, li pre {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+div.related {
+	display: block;
+}
+

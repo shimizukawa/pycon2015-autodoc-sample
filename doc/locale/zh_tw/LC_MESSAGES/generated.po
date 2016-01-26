@@ -1,0 +1,74 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep thought 0.7.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-23 11:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ..\..\generated\deep_thought.api.rst:2
+msgid "deep_thought.api"
+msgstr ""
+
+#: ..\..\..\deep_thought\api.pydocstring of deep_thought.api:1
+msgid "APIs"
+msgstr ""
+
+#: ..\..\..\deep_thought\api.pydocstring of deep_thought.api.egg:1
+msgid "EGG EGG EGG"
+msgstr ""
+
+#: ..\..\..\deep_thought\api.pydocstring of deep_thought.api.ham:1
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.ham:1
+msgid "HAM HAM HAM"
+msgstr ""
+
+#: ..\..\..\deep_thought\api.pydocstring of deep_thought.api.spam:1
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.spam:1
+msgid "SPAM SPAM SPAM"
+msgstr ""
+
+#: ..\..\generated\deep_thought.calc.rst:2
+msgid "deep_thought.calc"
+msgstr ""
+
+#: ..\..\..\deep_thought\calc.pydocstring of deep_thought.calc:1
+msgid "Calculation functions"
+msgstr ""
+
+#: ..\..\..\deep_thought\calc.pydocstring of deep_thought.calc.calc_answer:1
+msgid "calc and answer for the question"
+msgstr ""
+
+#: ..\..\generated\deep_thought.utils.rst:2
+msgid "deep_thought.utils"
+msgstr ""
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils:1
+msgid "utility functions"
+msgstr "實用功能"
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.dumps:1
+msgid "Serialize ``obj`` to a JSON formatted :class:`str`."
+msgstr "序列化 ``obj`` 要JSON格式 :class:`str`."
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.dumps:3
+msgid "For example:"
+msgstr "例如:"
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.dumps:10
+msgid "dict type object to serialize."
+msgstr "序列化的dict類型的對象"
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.dumps:11
+msgid "Default is True. If False, all non-ASCII characters are not ..."
+msgstr "默認為真。如果為False，所有非ASCII字符都沒有..."
+
+#: ..\..\..\deep_thought\utils.pydocstring of deep_thought.utils.dumps:13
+msgid "JSON formatted string"
+msgstr "JSON格式的字符串"

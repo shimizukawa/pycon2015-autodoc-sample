@@ -1,0 +1,40 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep thought 0.7.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-06 18:26+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ..\..\api.rst:2
+msgid "Deep thought API"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid ":obj:`api <deep_thought.api>`\\"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid "APIs"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid ":obj:`calc <deep_thought.calc>`\\"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid "Calculation functions"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid ":obj:`utils <deep_thought.utils>`\\"
+msgstr ""
+
+#: ..\..\<autosummary>:1
+msgid "utility functions"
+msgstr ""
