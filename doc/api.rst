@@ -12,4 +12,5 @@ Deep thought API
    api
    calc
    utils
+   pkg
 
